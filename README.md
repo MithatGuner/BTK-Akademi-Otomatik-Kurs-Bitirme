@@ -7,8 +7,8 @@
 -------
 
 # Kullanım
-- **$cookie** değişkenini tarayıcınızdan kopyalayıp yapıştırabilirsiniz.
-- **$kursURL** değişkenini kopyaladığınız urlyi yapıştırın.
+- **$cookie** Aşağıda nasıl bulabileceğiniz açıklanmıştır.
+- **$kursURL** kopyaladığınız urlyi yapıştırın.
 - - Örnek Kurs URL
 - - - https://www.btkakademi.gov.tr/portal/course/css-7453
 
