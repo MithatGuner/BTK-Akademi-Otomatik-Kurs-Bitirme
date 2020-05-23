@@ -12,6 +12,7 @@
 - - Örnek Kurs URL
 - - - https://www.btkakademi.gov.tr/portal/course/css-7453
 
+- Scripti kullanmak istediğiniz kursa katılmayı unutmayın.
 
 # Cookie Nasıl Bulunur ?
 
