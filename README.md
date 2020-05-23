@@ -7,7 +7,7 @@
 -------
 
 # Kullanım
-- **$cookie** Aşağıda nasıl bulabileceğiniz açıklanmıştır.
+- **$cookie** aşağıda nasıl bulabileceğiniz açıklanmıştır.
 - **$kursURL** kopyaladığınız urlyi yapıştırın.
 - - Örnek Kurs URL
 - - - https://www.btkakademi.gov.tr/portal/course/css-7453
