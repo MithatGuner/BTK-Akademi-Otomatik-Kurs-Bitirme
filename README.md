@@ -1,8 +1,8 @@
 # BTK-Akademi-Otomatik-Kurs-Bitirme
 
-# BTK Akademi Kurslarını Bu Sistem Sayesinde Videoları İzlemenize Gerek Kalmadan Tamamlayabillirsiniz!
+## BTK Akademi Kurslarını Bu Sistem Sayesinde Videoları İzlemenize Gerek Kalmadan Tamamlayabillirsiniz!
 
-# Eğitim amaçlı kodlanmıştır herhangi bir sorumluluk kabul edilmez.
+### Eğitim amaçlı kodlanmıştır herhangi bir sorumluluk kabul edilmez.
 
 -------
 
